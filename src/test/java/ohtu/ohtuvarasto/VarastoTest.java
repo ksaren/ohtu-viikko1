@@ -149,5 +149,12 @@ public class VarastoTest {
         
         assertEquals(haluttu, varasto.toString());
     }
+    
+    @Test
+    public void rikkinainenTestiTravisiaVarten() {
+        varasto2 = new Varasto(50, 20);
+        assertEquals(20, varasto.getSaldo());
+        
+    }
 
 }
