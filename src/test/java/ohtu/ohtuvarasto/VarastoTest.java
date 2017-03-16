@@ -153,7 +153,7 @@ public class VarastoTest {
     @Test
     public void rikkinainenTestiTravisiaVarten() {
         varasto2 = new Varasto(50, 20);
-        assertEquals(20, varasto.getSaldo());
+        assertEquals(20, varasto2.getSaldo(), vertailuTarkkuus); //ei enää rikki!
         
     }
 
