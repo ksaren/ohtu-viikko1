@@ -3,3 +3,5 @@ Tähän vähän muutoksia, testailua varten.
 Nyt testaillaan Travisia.
 
 Synkkaus-testi, muutoksia tehty repossa, ei pullattu...
+
+Muutettiin myös haarakloonissa näitä rivejä.
