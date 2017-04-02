@@ -1,0 +1,7 @@
+__Retrospektiivitekniikoista__
+
+Retrospektiivillä tarkoitetaan lyhyehköä sprintin, projektin tai prosessin jälkeen pidettävää yhteenvetopalaveriä. Retrospektiivissä tiimi miettii ja kirjaa yhdessä mikä onnistui, mitä pitäisi kehittää, mitä jäi puuttumaan ja miksi.
+
+Retrospektiiviä varten on olemassa useita formalisoituja protokollia. Esimerkiksi niin kutsuttu _"Start, Stop, Continue, More of, Less of Wheel"_ -malli on nopea, yksinkertainen ja kevyt tekniikka, jossa ryhmä kirjaa tekniikan nimen mukaisiin osioihin jaettuun ympyrään yhdessä näkemyksiään. Mitä uutta pitäisi aloittaa, mitä ei kannata jatkaa ja mitä taas kannattaa, sekä mitä pitäisi tehdä/huomioida lisää ja mitä voisi vähentää. Aikaa tähän retrospektiiviin kuluu alle puoli tuntia.
+
+Toinen tekniikka on nimeltään _"Glad, Sad, Mad"_, ja siinä tarkoitus on ryhmitellä tapahtumia taas retrospektiivitekniikan nimen mukaan. Tässä tekniikassa on enemmän vaiheita toteutettavana, ja retrospektiivi aloitetaan lyhyellä yksilötyöskentelyllä josta edetään ryhmäpohdintaan ja äänestyksiin tarkan protokollan mukaan. Aikaa kuluu maksimissaan 60min, jolloin viimeistään lopetetaan. Tekniikassa jokainen ensin kirjaa ylös muutaman asian kuluneen sprintin (tms.) ajalta, sitten tapahtumat ryhmitellään ja äänestetään tärkeimmät. Sen jälkeen tapahtumia käsitellään tärkeysjärjestyksessä. Näin voidaan olla varmoja, että tärkeimmät asiat tulee käsiteltyä, mutta myös yksittäiset merkittävät huomiot voidaan ottaa käsittelyyn.

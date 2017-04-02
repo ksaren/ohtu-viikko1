@@ -1,0 +1,5 @@
+ <bean class="ohtu.io.StubIO">
+        <constructor-arg type="java.lang.String" value="new" />
+        <constructor-arg type="java.lang.String" value="kalle" />
+        <constructor-arg type="java.lang.String" value="ellakalle1" />
+    </bean>
