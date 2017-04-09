@@ -7,3 +7,5 @@ Synkkaus-testi, muutoksia tehty repossa, ei pullattu...
 Muutettiin myös haarakloonissa näitä rivejä.
 Testataan brancheja, muutos master-haaraan
 
+Tagien testausta
+
