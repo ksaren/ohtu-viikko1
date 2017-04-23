@@ -18,6 +18,3 @@ dependencies {
 
 mainClassName = 'ohtu.Main'
 
-run {
-    standardInput = System.in
-}
