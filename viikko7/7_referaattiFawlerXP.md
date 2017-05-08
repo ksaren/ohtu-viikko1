@@ -1,0 +1,7 @@
+
+Ohjelmistotuotanto 2017, laskari 7.					Kaisa Sarén
+
+Tehtävä 7: referaatti Martin Fawlerin artikkelista “Is Design Dead?”.
+
+	Artikkelissa käsitellään perusteellisesti Extreme Programming:n (XP:n) ja designin suhdetta purkaen samalla ennakkoluuloja aiheen ympäriltä. Fawler kuvailee useimpien (negatiivisten) käsitysten perustuvan epäonnistuneisiin XP-projekteihin, joissa on toteutettu vain osa  XP:n käytänteistä (esimerkiksi suoraviivainen toteutus ilman raskasta suunnittelua) unohtaen tai laiminlyöden esimerkiksi testaus tai jatkuva integraatio. Ei voi olla toista ilman toista, muistuttaa Fawler artikkelissaan korostaen testauksen, integraation ja pyrkimyksen äärimmäisen siistiin koodiin olevan XP:n turvaverkko jota ilman tiedossa on adhoc-asenteella etenevä katastrofi.
+	Artikkelissa puretaan myös myyttiä tarpeettomiksi jääneistä arkkitehdeistä. Arkkitehti on yleensä kokonaisuutta hallitseva kokenut kehittäjä, ja sen tarve säilyy XP:ssakin, toteaa Fawler ja jatkaa että XP:ssa sitä vaan kutsutaan Coachiksi. Suuri muutos on siinä, että Coachin tärkein rooli on tukea ja kouluttaa muuta tiimiä sen sijaan, että vastuuarkkitehdit tekisivät vaikeat päätökset itse. Tämä saattaakin olla se vaikein asia XP:ssa; on luotettava devaajien taitoihin, ja toisaalta heidän on myös aktiivisesti pyrittävä XP:n mukaisiin ratkaisuihin. Mutta ei taitavaksi devaajaksi ole koskaan ennenkään ollut helppo tulla, muistuttaa Fawler lopuksi.
